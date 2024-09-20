@@ -1,1 +1,2 @@
-# Android-SampleCode
+###코틀린 문법 정리
+###심리 테스트 앱 연습
