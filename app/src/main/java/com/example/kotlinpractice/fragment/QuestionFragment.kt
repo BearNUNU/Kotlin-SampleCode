@@ -1,4 +1,7 @@
 package com.example.kotlinpractice.fragment
 
-class QuestionFragment {
+import androidx.fragment.app.Fragment
+
+class QuestionFragment : Fragment() {
+
 }
