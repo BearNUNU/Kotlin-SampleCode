@@ -1,4 +1,4 @@
-package com.example.kotlinpractice
+package com.example.kotlinpractice.kotlinPractice
 
 fun main(){
 println(square(12))
@@ -6,7 +6,7 @@ println(square(12))
     val a = "pizza"
     println(a.foodGood()) //확장함수
 
-    val ticketA=Ticket("a","b","c",4)
+    val ticketA= Ticket("a","b","c",4)
 }
 //9. Lamda
 // 람다식은 우리가 value처럼 다룰 수 있는 익명 함수

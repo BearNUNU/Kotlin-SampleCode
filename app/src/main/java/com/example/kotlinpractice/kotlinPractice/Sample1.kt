@@ -1,4 +1,4 @@
-package com.example.kotlinpractice
+package com.example.kotlinpractice.kotlinPractice
 
 fun main(){
     helloWorld()

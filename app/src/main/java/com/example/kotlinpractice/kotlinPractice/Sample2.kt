@@ -1,6 +1,4 @@
-package com.example.kotlinpractice
-
-import android.hardware.camera2.CameraExtensionSession.StillCaptureLatency
+package com.example.kotlinpractice.kotlinPractice
 
 fun main(){
 
