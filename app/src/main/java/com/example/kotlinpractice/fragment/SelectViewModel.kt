@@ -1,4 +1,7 @@
 package com.example.kotlinpractice.fragment
 
-class SelectViewModel {
+import android.app.Application
+import androidx.lifecycle.AndroidViewModel
+
+class SelectViewModel(application: Application) : AndroidViewModel(application)  {
 }

@@ -28,6 +28,9 @@
         android:name="com.example.kotlinpractice.fragment.ResultFragment"
         android:label="fragment_result"
         tools:layout="@layout/fragment_result" />
+    <action
+        android:id="@+id/action_resultFragment_to_mainFragment"
+        app:destination="@id/mainFragment" />
     <fragment
         android:id="@+id/selectFragment"
         android:name="com.example.kotlinpractice.fragment.SelectFragment"

@@ -33,7 +33,7 @@
         app:layout_constraintHorizontal_bias="0.543"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_main"
-        app:layout_constraintVertical_bias="0.728" />
+        app:layout_constraintVertical_bias="0.729" />
 
     <ImageView
         android:id="@+id/btn_home"
